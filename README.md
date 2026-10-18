@@ -18,6 +18,6 @@ https://github.com/user-attachments/assets/48797929-c350-4dc3-8570-983093c51cfd
 
 ---
 
-### 🚀 Vitrindeki Proje
+### 🚀 Showcase
 🎵 **XenMasterX AI** 
-Meta'nın Demucs V8 modelini arkasına alan, stüdyo kalitesinde yapay zeka tabanlı vokal/ses ayrıştırıcı.
+Studio-grade AI audio separator powered by Meta's Demucs V8 model.
