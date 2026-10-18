@@ -1,4 +1,5 @@
-
+,
+https://tenor.com/tr/view/gokhanoner-gif-18303409618318104593
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/ba05ba4d-bc28-4f53-bde4-84e7eb52b73f" />
 
 
