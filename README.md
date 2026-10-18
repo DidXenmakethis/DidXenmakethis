@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="https://tenor.com/tr/view/gokhanoner-gif-18303409618318104593" width="300" />
+  <img src="<img width="220" height="220" alt="gokhanoner" src="https://github.com/user-attachments/assets/00866779-0dc6-4bb2-bc9c-e9fc24d4aa84" />
+" width="300" />
   <img src="https://github.com/user-attachments/assets/ba05ba4d-bc28-4f53-bde4-84e7eb52b73f" width="300" />
 </div>
 
